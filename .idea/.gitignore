@@ -1,0 +1,12 @@
+# Default ignored files
+/workspace.xml
+*.class
+out
+*.aux
+*.log
+*.nav
+*.snm
+*.toc
+*.out
+*.vrb
+*.gz
