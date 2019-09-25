@@ -1,7 +1,6 @@
 # Default ignored files
-/workspace.xml
+/.idea/workspace.xml
 *.class
-out
 *.aux
 *.log
 *.nav
@@ -10,3 +9,4 @@ out
 *.out
 *.vrb
 *.gz
+out

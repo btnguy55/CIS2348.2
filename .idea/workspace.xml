@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cfb5013-f463-4ec7-b2e7-4466b18a84ce" name="Default Changelist" comment="hi">
+      <change afterPath="$PROJECT_DIR$/Session 5/Session 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 5/src/PassString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 6/Session 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 6/src/RandomPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/src/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session4/src/BalanceSwing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,10 +37,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1QhgQ27CtrdtdqzaNGNlNXiy7ge" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -48,10 +60,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Operators">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
-      <module name="Session1" />
+  <component name="RunManager" selected="Application.RandomPattern">
+    <configuration name="Balance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Balance" />
+      <module name="Session4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -70,11 +82,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RandomPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomPattern" />
+      <module name="Session 6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Switches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Switches" />
+      <module name="Session3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomPattern" />
+        <item itemvalue="Application.Balance" />
+        <item itemvalue="Application.Switches" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.HelloWorldCont" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +116,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568228221670</updated>
-      <workItem from="1568228228064" duration="2078000" />
+      <workItem from="1568228228064" duration="5335000" />
+      <workItem from="1569434502336" duration="4878000" />
     </task>
     <task id="LOCAL-00001" summary="Git test for hello world">
       <created>1568228994944</created>
@@ -132,11 +161,52 @@
       <option name="project" value="LOCAL" />
       <updated>1568230145939</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hi">
+      <created>1568230344854</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568230344854</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hi">
+      <created>1568230371624</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568230371624</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hi">
+      <created>1568231298803</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568231298804</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hi">
+      <created>1568231836109</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568231836109</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Git test for hello world" />
