@@ -1,7 +1,6 @@
 //Bao Nguyen
 //1588673
 
-import java.time.*;
 import java.util.Scanner;
 
 public class BirthdayCalculator {
